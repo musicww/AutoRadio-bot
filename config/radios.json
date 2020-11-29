@@ -1,0 +1,21 @@
+{
+    "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios": "NRJ",
+    "http://icecast.skyrock.net/s/natio_mp3_128k": "Skyrock",
+    "http://streamingp.shoutcast.com/NostalgiePremium-mp3": "Nostalgie",
+    "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios": "ChérieFM",
+    "http://streaming.radio.rtl.fr/rtl-1-48-192": "RTL",
+    "http://streaming.radio.rtl2.fr/rtl2-1-48-192": "RTL2",
+    "http://streaming.radio.funradio.fr/fun-1-48-192": "FunRadio",
+    "http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3": "Europe1",
+    "http://ais-live.cloud-services.paris:8000/virgin.mp3": "Virgin",
+    "https://ais-live.cloud-services.paris:8443/rfm.mp3": "RFM",
+    "http://direct.franceinter.fr/live/franceinter-midfi.mp3": "FranceInter",
+    "http://direct.franceculture.fr/live/franceculture-midfi.mp3": "FranceCulture",
+    "http://direct.francemusique.fr/live/francemusique-midfi.mp3": "FranceMusique",
+    "http://direct.mouv.fr/live/mouv-midfi.mp3": "Mouv'",
+    "http://target-ad-2.cdn.dvmr.fr/ouifm-high.mp3": "OuïFM",
+    "http://allzic49.ice.infomaniak.ch/allzic49.mp3": "Allzick",
+    "http://chai5she.cdn.dvmr.fr/rmcinfo": "RMC",
+    "http://alouette.ice.infomaniak.ch/alouette-high.mp3": "Alouette",
+    "http://broadcast.infomaniak.ch/hitwest-high.mp3": "HitWest"
+}
